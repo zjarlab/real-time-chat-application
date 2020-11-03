@@ -1,11 +1,11 @@
 {
-  "name": "chatcord",
+  "name": "letschat",
   "version": "1.0.0",
   "description": "Realtime chat with rooms",
   "main": "server.js",
   "scripts": {
     "start": "node server",
-    "dev":"nodemon server"
+    "dev": "nodemon server"
   },
   "repository": {
     "type": "git",
